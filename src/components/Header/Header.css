@@ -1,0 +1,23 @@
+.Header {
+    margin: auto;
+    width: 100%;
+    padding: 25px 0 25px 0;
+}
+
+.links {
+    display: flex;
+    align-items: center;
+    width: 100%;
+    color: black;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 50px;
+    justify-content: space-between;
+}
+
+
+
+
+.img {
+    width: 100px;
+    height: 100px;
+}
